@@ -2,7 +2,7 @@
    [API 2.0下线通知](https://cloud.tencent.com/document/product/1278/82311) By github@z0z0r4
    
 ### 新增支持Actions自选更新V4或V6 ——update 2022.12.19
-> 使用方法
+> 使用方法aaa
 
    1. 修改 **`.github/workflows/run.yml`**
 
